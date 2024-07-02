@@ -1,13 +1,10 @@
 server:
   port: 8761
 
-
-
 ead:
   serviceRegistry:
     username: serviceregistry
     password: 'ead123sr'
-
 
 eureka:
   client:
